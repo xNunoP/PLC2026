@@ -3,7 +3,7 @@
 * **Nome:** Nuno Rei de Sousa Pinto
 * **Identificador:** A110326
 * **Fotografia:**
-  ![Fotografia do Autor](./foto.jpg)
+  ![Fotografia do Autor](./foto.png)
 
 
 ---
