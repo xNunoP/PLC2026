@@ -3,6 +3,7 @@
 * **Nome:** Nuno Rei de Sousa Pinto
 * **Identificador:** A110326
 * **Fotografia:**
+  <br>
   <img src="https://github.com/user-attachments/assets/4bc9b049-eb44-406d-8fad-c5599ae38f16" width="150" alt="Fotografia do Autor">
 
 
