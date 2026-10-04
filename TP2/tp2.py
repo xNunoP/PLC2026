@@ -29,3 +29,22 @@ def markdown_para_html(texto_md):
     html = re.sub(r'((?:<li>.*?</li>\n?)+)', r'<ol>\n\1</ol>', html)
     
     return html
+
+
+
+texto_teste = """# Título Principal
+## Subtítulo
+
+Este é um **exemplo** com texto em *itálico* e também **bold**.
+
+Como pode ser consultado em [página da UC](http://www.uc.pt)
+
+Como se vê na imagem seguinte: ![imagem dum coelho](http://www.coelho.com)
+
+1. Primeiro item
+2. Segundo item
+3. Terceiro item
+"""
+
+resultado = markdown_para_html(texto_teste)
+print(resultado)
