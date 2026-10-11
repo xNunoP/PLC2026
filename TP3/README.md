@@ -10,7 +10,7 @@
 ---
 
 ## Resumo
-Este trabalho consiste no desenvolvimento de um analisador léxico (*lexer*) em Python para uma linguagem de queries inspirada no SPARQL. O analisador utiliza a função `re.finditer` e grupos nomeados de expressões regulares para identificar e transformar o texto de entrada numa sequência estruturada de tokens.
+Este trabalho consiste no desenvolvimento de um analisador léxico (*lexer*) em Python para uma linguagem de queries. O analisador utiliza a função `re.finditer` e grupos nomeados de expressões regulares para identificar e transformar o texto de entrada numa sequência estruturada de tokens.
 
 ## Tokens Reconhecidos
 
